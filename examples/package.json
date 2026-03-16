@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "openai": "^5",
-    "ai": "^4",
+    "ai": "^6",
     "@ai-sdk/openai": "^1",
     "@langchain/core": "^0.3",
     "@langchain/langgraph": "^0.2",
